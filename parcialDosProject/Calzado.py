@@ -1,4 +1,4 @@
-from calzadoo import total
+
 
 salario = int(3000000)
 cargoemple = ("directivo")
